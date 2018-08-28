@@ -1,4 +1,4 @@
-title: los videojuegos 2
+title: los videojuegos 
 description:  Aprende  sobre los videojuegos de moda y nuevo
 permalink: ':title/'
 baseurl: "/" 
@@ -6,7 +6,7 @@ url: "https://losvideojuego2.github.io
 site-twitter: 
 
 
-author: los videojuegos 2
+author: los videojuegos
 author-img: logo-pie.png  
 about-author: Aprende  sobre los videojuegos de moda y nuevo
 social-twitter: 
