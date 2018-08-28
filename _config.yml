@@ -1,12 +1,12 @@
-title: Sé más que un blogger
-description:  Aprende a crear un blog.
+title: los videojuegos 2
+description:  Aprende  sobre los videojuegos de moda y nuevo
 permalink: ':title/'
 baseurl: "/" 
-url: "https://canvas2017.github.io" 
+url: "https://losvideojuego2.github.io 
 site-twitter: 
 
 
-author: Sé más que un blogger  
+author: los videojuegos 2
 author-img: logo-pie.png  
 about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3.
 social-twitter: 
