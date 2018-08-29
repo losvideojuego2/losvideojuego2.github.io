@@ -1070,12 +1070,14 @@ table tfoot td {
   background-color:  #ff784f;
 }
 nav ul li a.active {
-	background: #3281b2;
+	background:#CF3030;
 	color: #ffffff;
+	border-radius:36px;
 }
 nav ul li a:hover {
-	background: #3281b2;
+	background:#CF3030;
 	color: #ffffff;
+	border-radius:36px;
 }
 
 nav ul li a {
