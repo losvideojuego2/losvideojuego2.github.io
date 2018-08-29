@@ -1069,14 +1069,14 @@ table tfoot td {
   right: 0;
   background-color:  #ff784f;
 }
-nav ul li a.active {
+nav ul li a.hover {
 	background:#CF3030;
-	color: #ffffff;
+	color: #CF3030;
 	border-radius:36px;
 }
 nav ul li a:hover {
 	background:#CF3030;
-	color: #ffffff;
+	color: #CF3030;
 	border-radius:36px;
 }
 
