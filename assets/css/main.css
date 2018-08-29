@@ -14,12 +14,7 @@ html {
   -webkit-text-size-adjust: 100%;
   /* 2 */
 }
-html,body{
-	margin:0;
-	padding:0;
-	background-color:#FFDD00;
-	height: 100%;
-      }
+
 
 
 	
@@ -789,7 +784,7 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
   color: #1f2c33;
-  background-color: #ebebeb;
+  background-color: #FFDD00;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
