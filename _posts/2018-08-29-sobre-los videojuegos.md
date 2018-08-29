@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sobre Html
-date: 2018-08-20
-description: Las etiquetas de HTML básicas
+title: Sobre videojuegos
+date: 2018-08-29
+description: Los videojuegos de haora y que estan de moda
 img: html-img.jpg 
 fig-caption: 
 tags: [Tecnología, Programación]
 ---
-
+###hola que tal estais en mi blog de video juegos de moda
