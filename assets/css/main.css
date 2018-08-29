@@ -14,6 +14,20 @@ html {
   -webkit-text-size-adjust: 100%;
   /* 2 */
 }
+html,body{
+	margin:0;
+	padding:0;
+	background-color:#FFDD00;
+	height: 100%;
+      }
+
+
+	
+
+	
+	
+
+}
 
 /* Sections
    ========================================================================== */
