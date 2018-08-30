@@ -909,7 +909,7 @@ table tfoot td {
 
 ::selection {
   background: rgba(38, 57, 89, 0.8);
-  color: #ffffff;
+  color: #f58511;
 }
 
 .clearfix::before, .clearfix::after {
