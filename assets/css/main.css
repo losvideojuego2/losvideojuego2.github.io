@@ -858,8 +858,8 @@ table tr:nth-child(even) {
 
 table thead {
   background: #a9c4d1;
-  background: -webkit-gradient(linear, left top, left bottom, from(#bed3dc), color-stop(66%, #b1cad5), to(#A9C4D1));
-  background: -webkit-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#F5AE07), color-stop(66%, #b1cad5), to(#F5AE07));
+  background: -webkit-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #F5AE07 100%);
   background: -o-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #F5AE07 100%);
   background: linear-gradient(to bottom, #bed3dc 0%, #b1cad5 66%, #F5AE07100%);
   border-bottom: 1px solid #F5AE07;
