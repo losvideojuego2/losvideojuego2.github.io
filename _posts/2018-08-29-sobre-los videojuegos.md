@@ -3,7 +3,7 @@ layout: post
 title:Sobre los videojuegos
 date: 2018-08-29
 description: Los videojuegos de haora y que estan de moda
-img: html-img.jpg 
+img: games.jpg
 fig-caption: 
 tags: [Tecnología, Programación]
 ---
